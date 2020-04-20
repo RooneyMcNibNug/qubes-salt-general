@@ -1,0 +1,5 @@
+### Top file  for building a Qubes Template and VM per https://www.qubes-os.org/doc/multimedia/
+
+base:
+   dom0:
+      - multimedia-debian
