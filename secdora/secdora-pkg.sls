@@ -4,6 +4,8 @@ install-packages:
          - tor
          - proxychains
          - tcpdump
+         - tcpjunk
+         - unicornscan
          - tshark
          - nmap
          - masscan
@@ -13,6 +15,14 @@ install-packages:
          - yersinia
          - radare2
          - sqlmap
+         - driftnet
+         - iperf
+         - p0f
+         - ssldump
+         - whois
+         - wavemon
+         - cowpatty
+         - scapy
 
    git.latest
       - name: https://github.com/aboul3la/Sublist3r
