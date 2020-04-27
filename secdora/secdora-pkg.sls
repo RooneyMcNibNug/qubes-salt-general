@@ -6,7 +6,7 @@ install-packages:
          - tcpdump
          - tcpjunk
          - unicornscan
-         - tshark
+         - wireshark
          - nmap
          - masscan
          - ettercap
@@ -14,7 +14,6 @@ install-packages:
          - skipfish
          - yersinia
          - radare2
-         - sqlmap
          - driftnet
          - iperf
          - p0f
