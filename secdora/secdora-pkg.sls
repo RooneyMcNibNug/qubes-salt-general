@@ -24,6 +24,6 @@ install-packages:
          - scapy
 
    git.latest
-      - name: https://github.com/aboul3la/Sublist3r
+      - name: https://github.com/Findomain/Findomain
       - rev: master
-      - target /home/user/Sublist3r
+      - target /home/user/findomain
