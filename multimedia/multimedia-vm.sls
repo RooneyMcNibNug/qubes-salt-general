@@ -4,7 +4,7 @@ Create-multimedia-debian:
    qvm.vm
       - name: multimedia-debian
       - clone: 
-         - source: debian-10
+         - source: debian-11
          - label: black
 
 Create-multimedia-vm:
