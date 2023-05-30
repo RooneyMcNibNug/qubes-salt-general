@@ -2,7 +2,7 @@ create-secdora-template
    qvm.vm
       - name: secdora
       - clone: 
-         - source: fedora-36
+         - source: fedora-38
          - label: black
 
    qvm-vm
